@@ -3,7 +3,7 @@
 import os
 import sys
 
-LINE = "I can stop time completely, but only for clocks — everything else, including me, keeps going."
+LINE = "I can translate any sign into the language it's already written in — an EXIT sign, word for word: EXIT."
 
 
 def check_line(text):
